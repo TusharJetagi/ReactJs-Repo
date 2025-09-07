@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharJetagi/ReactJs-Repo.git"
+  },
+  "author": "Tushar Jetagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TusharJetagi/ReactJs-Repo/issues"
+  },
+  "homepage": "https://github.com/TusharJetagi/ReactJs-Repo#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
